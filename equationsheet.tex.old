@@ -1,0 +1,28 @@
+\documentclass[12pt]{article}
+\usepackage{geometry, amssymb, array}
+\usepackage[fleqn]{mathtools}
+\setlength{\mathindent}{10pt}
+\geometry{portrait, margin=.5in}
+\pagestyle{empty}
+\begin{document}
+
+\begin{minipage}{.5\textwidth}
+\textbf{\large{Kinematic Equations}}
+
+\setlength\tabcolsep{12pt}
+\def\arraystretch{2}
+\begin{tabular}{ll}
+	$v_f = v_i + at$ & $\Delta x = \frac{1}{2}(v_i + v_f)t$ \\
+	$v_f^2 = v_i^2 + 2a \Delta x$ & $\Delta x = v_i t + \frac{1}{2} at^2$
+\end{tabular}
+
+\end{minipage}
+\begin{minipage}{.5\textwidth}
+\textbf{\large{Projectile Motion}}
+
+	
+\end{minipage}
+
+
+\end{document}
+
