@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2016.5.19)  7 DEC 2016 21:01
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2016.5.19)  7 DEC 2016 21:24
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**./equationsheet.tex
-(./equationsheet.tex
+**./equationsheetex.tex
+(./equationsheetex.tex
 LaTeX2e <2011/06/27>
 Babel <3.9h> and hyphenation patterns for 2 languages loaded.
 (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
@@ -158,8 +158,9 @@ LaTeX Info: Thecontrolsequence`\]'isalreadyrobust on input line 129.
 \l_MT_below_intertext_sep=\dimen127
 \l_MT_above_shortintertext_sep=\dimen128
 \l_MT_below_shortintertext_sep=\dimen129
-) (./equationsheet.aux)
-\openout1 = `equationsheet.aux'.
+)
+(./equationsheetex.aux)
+\openout1 = `equationsheetex.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 6.
 LaTeX Font Info:    ... okay on input line 6.
@@ -173,6 +174,7 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 6.
 LaTeX Font Info:    ... okay on input line 6.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 6.
 LaTeX Font Info:    ... okay on input line 6.
+
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -316,108 +318,27 @@ Overfull \hbox (20.23589pt too wide) in paragraph at lines 12--29
 [][] [] 
  []
 
-
-Overfull \hbox (9.06229pt too wide) in paragraph at lines 34--39
-[] 
- []
-
-
-Overfull \hbox (9.06229pt too wide) in paragraph at lines 44--50
-[] 
- []
-
-
-Overfull \hbox (20.23589pt too wide) in paragraph at lines 33--52
-[][] []
- []
-
-
-Overfull \hbox (9.06229pt too wide) in paragraph at lines 57--65
-[] 
- []
-
-
-Overfull \hbox (37.51505pt too wide) in paragraph at lines 71--78
-[] 
- []
-
-
-Overfull \hbox (20.23589pt too wide) in paragraph at lines 56--79
-[][] [] 
- []
-
-
-Overfull \hbox (37.51505pt too wide) in paragraph at lines 84--91
-[] 
- []
-
-
-Overfull \hbox (37.51505pt too wide) in paragraph at lines 96--103
-[] 
- []
-
-
-Overfull \hbox (20.23589pt too wide) in paragraph at lines 83--105
-[][] []
- []
-
-
-Overfull \hbox (37.51505pt too wide) in paragraph at lines 110--117
-[] 
- []
-
-
-Overfull \hbox (37.51505pt too wide) in paragraph at lines 122--127
-[] 
- []
-
-
-Overfull \hbox (20.23589pt too wide) in paragraph at lines 109--128
-[][] [] 
- []
-
-
-Overfull \hbox (37.51505pt too wide) in paragraph at lines 141--145
-[] 
- []
-
-
-Overfull \hbox (37.51505pt too wide) in paragraph at lines 150--159
-[] 
- []
-
-
-Overfull \hbox (20.23589pt too wide) in paragraph at lines 132--160
-[][] [] 
- []
-
 [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./equationsheet.aux) ) 
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./equationsheetex.aux) ) 
 Here is how much of TeX's memory you used:
- 3484 strings out of 495028
- 48493 string characters out of 6181497
- 127237 words of memory out of 5000000
- 6645 multiletter control sequences out of 15000+600000
- 10591 words of font info for 42 fonts, out of 8000000 for 9000
+ 3483 strings out of 495028
+ 48494 string characters out of 6181497
+ 112237 words of memory out of 5000000
+ 6644 multiletter control sequences out of 15000+600000
+ 10291 words of font info for 41 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 51i,17n,32p,277b,289s stack positions out of 5000i,500n,10000p,200000b,80000s
-</u
-sr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/sha
-re/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/tex
-live/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/t
-exmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texlive/texmf-di
-st/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/font
-s/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1
-/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public
-/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfont
-s/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cms
-y10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb
->
-Output written on equationsheet.pdf (1 page, 116065 bytes).
+ 51i,16n,32p,279b,289s stack positions out of 5000i,500n,10000p,200000b,80000s
+<
+/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/s
+hare/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/t
+exlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-
+dist/fonts/type1/public/amsfonts/cm/cmr8.pfb>
+Output written on equationsheetex.pdf (1 page, 41475 bytes).
 PDF statistics:
- 52 PDF objects out of 1000 (max. 8388607)
- 37 compressed objects within 1 object stream
+ 28 PDF objects out of 1000 (max. 8388607)
+ 19 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
